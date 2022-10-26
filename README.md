@@ -1,7 +1,7 @@
 # Welcome to my first git repository
 
 ## Author information
-Tomás Di Domenico
+Miguel Ramon Alonso
 
 ## Project description
-Just a repository to learn about git
+This will be my first try at understanding Git.
