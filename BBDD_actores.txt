@@ -1,2 +1,3 @@
-Penélope Cruz;1943;F;V, o, l, v, e, r, ,,  , L, o, s,  , a, b, r, a, z, o, s,  , r, o, t, o, s
-Javier Bardem;1943;M;No es país para viejos, Sin paz para los malvados
+Marcos;1964;M;"Caronte", "Dos docenas"
+Matriarca;2008;F;"Caronte", "Una de cal"
+María de la I;1954;F;"Minusprudencia", "Carisma", "Dos docenas"
