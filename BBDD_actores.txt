@@ -1,3 +1,0 @@
-Marcos;1964;M;"Caronte", "Dos docenas"
-Matriarca;2008;F;"Caronte", "Una de cal"
-María de la I;1954;F;"Minusprudencia", "Carisma", "Dos docenas"
